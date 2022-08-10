@@ -22,6 +22,10 @@
             LineLength Length = new LineLength();
             Length.lineLength();
 
+            //UC-2
+            LineEquality equality = new LineEquality();
+            equality.lineEquality();
+
 
         }
     }
