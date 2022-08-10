@@ -26,6 +26,10 @@
             LineEquality equality = new LineEquality();
             equality.lineEquality();
 
+            //UC-3
+            LineCompare compare = new LineCompare();
+            compare.lineCompare();
+
 
         }
     }
